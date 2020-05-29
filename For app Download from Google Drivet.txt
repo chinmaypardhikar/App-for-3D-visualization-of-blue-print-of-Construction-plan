@@ -1,1 +1,5 @@
 https://drive.google.com/file/d/1x9I8-rQNw97lsn9fWRrn8XLP0p8WTXyx/view?usp=sharing
+
+System Requirements:
+   - Android 7.0 or above
+   - Google AR supported
