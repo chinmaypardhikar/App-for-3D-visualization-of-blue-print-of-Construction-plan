@@ -1,0 +1,2 @@
+# App-for-3D-visualization-of-blue-print-of-Construction-plan
+While Purchasing a Apartment or property every person desires to       visualize the property he/she is going to buy.  To completely visualize the property and to make it easy to make a decision it is necessary  to visualize the whole structure.   It can help the seller as well the buyer to visualize while constructing ,selling and purchasing the property if one can visualize it easily.
